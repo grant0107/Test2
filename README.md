@@ -6,7 +6,7 @@ Eagle id: 901290070
 Email: wr04349@georgiasouthern.edu
 
 # Description
-- Test Placing a valid order
+- Test placing a valid order
 - Test paying for the order
 - Test inventory update when an order is placed
 - Test low stock alert
